@@ -16,5 +16,4 @@ console.log(booleanIsLoggedIn);
 /* if isLoggedIn:
  "" => false
  hitesh or any other string = true 
-
-*/
+*/ 
